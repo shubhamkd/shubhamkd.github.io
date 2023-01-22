@@ -24,7 +24,7 @@ elScript.onload = function () {
     '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>';
 
   L.tileLayer(
-    "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png?api_key=e08c0bc8-b7b7-426a-b2e0-26c0fa606346",
+    "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png?api_key=dddb11b6-9c51-4889-b91f-506a0d659178",
     // 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
     { attribution: cartodbAttribution }
   ).addTo(objMap);
